@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+##`开启项目`
+clone到本地,安装依赖(使用镜像)cnpm install
+
 ## Available Scripts
 
 In the project directory, you can run:
